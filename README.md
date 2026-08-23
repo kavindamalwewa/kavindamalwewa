@@ -2,7 +2,15 @@
 
 <h1 align="center">Hello 👋, I'm Kavinda Malwewa</h1>
 
-<h5 align="center">I'm an undergraduate student at the Rajarata University of Sri Lanka & University of Colombo School of Computing. I followed the BSc Information Technology degree program. Enthusiastic coder with a love for problem-solving and tech innovation. Fascinated by Software Engineering, Software Development, Mobile Application Development, Network Engineering, Artificial Intelligence, and Web Development. Seeking chances to learn, evolve, and make an impact. Let's connect and explore together!</h5>
+### IT Undergraduate | Aspiring AI/ML Engineer | Software Engineering | Python | Software Testing & QA
+
+Welcome to my GitHub profile!
+
+I am an IT undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, Software Engineering, Computer Vision, and Software Quality Assurance**.
+
+I enjoy building practical software solutions, exploring AI technologies, solving problems, and continuously improving my technical skills through academic and personal projects.
+
+---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindamalwewa&label=Profile%20views&color=0e75b6&style=flat" alt="kavindamalwewa" /> </p>
 
@@ -34,3 +42,11 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kavindamalwewa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kavindamalwewa" /></a></p><br><br>
+
+<p align="center">
+  <b>Learning • Building • Improving</b>
+</p>
+
+<p align="center">
+  Thank you for visiting my GitHub profile!
+</p>
