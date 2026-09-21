@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Kavinda Malwewa</h1>
 
-### IT Undergraduate | Aspiring AI/ML Engineer | Software Engineering | Python | Software Testing & QA
+### IT Undergraduate | Aspiring AI/ML Engineer | Software Engineering | Software Testing & QA
 
 Welcome to my GitHub profile!
 
